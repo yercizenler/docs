@@ -132,8 +132,7 @@
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
- :default-home {:page "Hoş Geldiniz!"
- :sidebar ["Yerçizenler ana sayfası"]}
+ :default-home {:page "Ana Sayfa", :sidebar ["Yerçizenler ana sayfası"]}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -315,7 +314,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
- :block-hidden-properties #{:public :icon}
+ ;; :block-hidden-properties #{:public :icon}
 
  ;; Create a page for all properties.
  ;; Default value: true

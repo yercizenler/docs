@@ -315,7 +315,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
- :block-hidden-properties #{:public :icon}
+ ;; :block-hidden-properties #{:public :icon}
 
  ;; Create a page for all properties.
  ;; Default value: true
