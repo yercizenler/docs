@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Selection</title>
+</head>
+<body>
+
+    <h1>Select a Language:</h1>
+    
+    <label for="language">Choose a language:</label>
+    <select id="language">
+        <option value="en">English</option>
+        <option value="tr">Turkish</option>
+    </select>
+    
+    <button onclick="redirect()">Go</button>
+
+    <script>
+        function redirect() {
+            var selectedLanguage = document.getElementById('language').value;
+            if (selectedLanguage === 'en') {
+                window.location.href = '/en';
+            } else if (selectedLanguage === 'tr') {
+                window.location.href = '/tr';
+            }
+        }
+    </script>
+
+</body>
+</html>
