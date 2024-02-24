@@ -1,0 +1,3 @@
+- [[6 Şubat - Deprem Veri Setleri]]
+- [[FOSS4G Konuşmalar]]
+-

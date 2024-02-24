@@ -1,0 +1,8 @@
+- Hasar seviyesine göre renklendirilmiş bina hasar tespit haritasıdır. [hasartespit.csb.gov.tr](https://hasartespit.csb.gov.tr/) üzerindeki veriler Gece Yazilim tarafından işlenmiş ve [Yer Cizenler](https://www.linkedin.com/company/yercizenler/) tarafından görselleştirilmiştir.
+- Son Güncelleme: 20 Şubat 2023
+-
+- ## Yönlendirme
+	- [Kaynağa](https://studio.foursquare.com/public/9fdbbd16-cd10-46dc-b099-d43d75f74a9d) tıklayınız ve araştırma amacıyla edindiğiniz şifreyi giriniz.
+	- Sol alt köşedeki "Export" butonuna tıklayarak veriyi dışarı aktarabilirsiniz.
+	- Çalışmalarınızda Yer Çizenler'e atıfta bulunursanız çok seviniriz.
+	- ![Screenshot 2024-02-24 at 09.33.32.png](../assets/Screenshot_2024-02-24_at_09.33.32_1708763616382_0.png)
