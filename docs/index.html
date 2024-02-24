@@ -4,10 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Language Selection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+
+        h1 {
+            color: #d8182e;
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        select {
+            padding: 8px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #d8182e;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
 
-    <h1>Select a Language:</h1>
+    <h1>Language Selection</h1>
     
     <label for="language">Choose a language:</label>
     <select id="language">
@@ -18,12 +48,15 @@
     <button onclick="redirect()">Go</button>
 
     <script>
+        const EN_ENDPOINT = '/docs/en';
+        const TR_ENDPOINT = '/docs/tr';
+
         function redirect() {
             var selectedLanguage = document.getElementById('language').value;
             if (selectedLanguage === 'en') {
-                window.location.href = '/en';
+                window.location.href = EN_ENDPOINT;
             } else if (selectedLanguage === 'tr') {
-                window.location.href = '/tr';
+                window.location.href = TR_ENDPOINT;
             }
         }
     </script>
