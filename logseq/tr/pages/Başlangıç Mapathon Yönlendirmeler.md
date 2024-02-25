@@ -1,0 +1,2 @@
+- Sıradaki videodan başlangıç için yeterli yönlendirmeleri izleyebilirsiniz.
+- {{video https://www.youtube.com/watch?v=KaVBhHclPB0}}

@@ -2,5 +2,6 @@
 	- [[İstanbul Mapathon Serisi - 2024]]
 	- [[6 Şubat Kahramanmaraş Depremi - 2023]]
 	- [[30 Ekim Ege Depremi - 2020]]
-	  
-	  icon:: 🗺️
+	- [[Açık Veri Serileri]]
+
+icon:: 🗺️

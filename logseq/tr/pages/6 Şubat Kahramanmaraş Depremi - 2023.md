@@ -1,2 +1,4 @@
+- {{video https://www.youtube.com/watch?v=JEP1KTtNYlY}}
+- [[6 Şubat - Mapathon Serisi]]
 - [[6 Şubat - Deprem Veri Setleri]]
 - [[FOSS4G Konuşmalar - 2023]]
