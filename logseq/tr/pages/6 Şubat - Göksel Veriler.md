@@ -1,0 +1,2 @@
+- [OpenAerialMap](https://map.openaerialmap.org/#/36.3043212890625,36.23984280222428,7?_k=w9dxbx) üzerinden ulaşabilirsiniz.
+- ![Screenshot 2024-02-25 at 08.23.51.png](../assets/Screenshot_2024-02-25_at_08.23.51_1708845858098_0.png){:height 727, :width 1247}

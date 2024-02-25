@@ -1,0 +1,1 @@
+- [Github üzerindeki kaynaktan](https://github.com/yercizenler/30ekim2020egedepremi) analiz dosyalarına ulaşabilirsiniz.

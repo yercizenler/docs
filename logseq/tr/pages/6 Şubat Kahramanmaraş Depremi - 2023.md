@@ -1,3 +1,2 @@
 - [[6 Şubat - Deprem Veri Setleri]]
-- [[FOSS4G Konuşmalar]]
--
+- [[FOSS4G Konuşmalar - 2023]]

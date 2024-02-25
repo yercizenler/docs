@@ -1,2 +1,2 @@
--
--
+- [[Başlangıç Mapathon Yönlendirmeler]]
+- [[Mapathon Günleri]]

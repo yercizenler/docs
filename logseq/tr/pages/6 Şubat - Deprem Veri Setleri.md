@@ -1,1 +1,2 @@
 - [[6 Şubat - Bina Hasar Tespit Haritası]]
+- [[6 Şubat - Göksel Veriler]]
